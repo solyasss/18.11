@@ -1,0 +1,18 @@
+D:\18.11 hw\18.11 hw\obj\Debug\net8.0\18.11 hw.GeneratedMSBuildEditorConfig.editorconfig
+D:\18.11 hw\18.11 hw\obj\Debug\net8.0\18.11 hw.AssemblyInfoInputs.cache
+D:\18.11 hw\18.11 hw\obj\Debug\net8.0\18.11 hw.AssemblyInfo.cs
+D:\18.11 hw\18.11 hw\obj\Debug\net8.0\18.11 hw.csproj.CoreCompileInputs.cache
+D:\18.11 hw\18.11 hw\bin\Debug\net8.0\18.11 hw.exe
+D:\18.11 hw\18.11 hw\bin\Debug\net8.0\18.11 hw.deps.json
+D:\18.11 hw\18.11 hw\bin\Debug\net8.0\18.11 hw.runtimeconfig.json
+D:\18.11 hw\18.11 hw\bin\Debug\net8.0\18.11 hw.dll
+D:\18.11 hw\18.11 hw\bin\Debug\net8.0\18.11 hw.pdb
+D:\18.11 hw\18.11 hw\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\18.11 hw\18.11 hw\obj\Debug\net8.0\18.11 hw.csproj.AssemblyReference.cache
+D:\18.11 hw\18.11 hw\obj\Debug\net8.0\18.11 hw.csproj.Up2Date
+D:\18.11 hw\18.11 hw\obj\Debug\net8.0\18.11 hw.dll
+D:\18.11 hw\18.11 hw\obj\Debug\net8.0\refint\18.11 hw.dll
+D:\18.11 hw\18.11 hw\obj\Debug\net8.0\18.11 hw.pdb
+D:\18.11 hw\18.11 hw\obj\Debug\net8.0\18.11 hw.genruntimeconfig.cache
+D:\18.11 hw\18.11 hw\obj\Debug\net8.0\ref\18.11 hw.dll
+D:\18.11 hw\18.11 hw\bin\Debug\net8.0\SoapFormatter.dll
